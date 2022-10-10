@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @keshav39
 - 👀 I’m interested in Gaming.
 - 🌱 I’m currently programming in C++ and learning Java.
-- 💞️ I’m looking to collaborate on nothing for the moment.
 - 📫 How to reach me - INSTAGARM - @keshav030902
 Bye.
 
