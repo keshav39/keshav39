@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Keshav Garg</h1>
+
 <h3 align="center">A passionate Programmer and a Web Developer as well as a Gamer on the side.</h3>
 
+<br/>
 
 - 🌱 I'm currently programming in **C++ and Java.**
 
