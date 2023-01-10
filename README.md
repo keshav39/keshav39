@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keshav Garg</h1>
+<h1 align="center">Hi 👋, I'm </h1>**Keshav Garg**
 <h3 align="center">A passionate Programmer and a Web Developer as well as a Gamer on the side.</h3>
 
 
@@ -51,14 +51,12 @@
 
 <h2> Bye. </h2>
 
-
 [![@keshav39's Holopin board](https://holopin.me/keshav39)](https://holopin.io/@keshav39)
+
 
 <p align="right" font-size="30px">
   <img src="https://komarev.com/ghpvc/?username=keshav39&label=View%20Count&color=00ff33&style=plastic" alt="keshav39" /> 
 </p>
-![Visitor Count](https://profile-counter.glitch.me/{keshav39}/count.svg)
-
 
 <!---
 keshav39/keshav39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
