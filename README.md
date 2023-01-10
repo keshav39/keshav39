@@ -8,6 +8,7 @@
 
 - 👀 Definitely an **Ambivert.**
 
+<br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left" padding="5px">
   <a href="https://linkedin.com/in/keshav-garg-269484189" target="_blank" margin="5px">
@@ -18,6 +19,7 @@
   </a>
 </p>
 
+<br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" padding="5px">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" margin="5px">
@@ -48,7 +50,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
 </p>
-
+<br/>
 <h2> Bye. </h2>
 
 [![@keshav39's Holopin board](https://holopin.me/keshav39)](https://holopin.io/@keshav39)
