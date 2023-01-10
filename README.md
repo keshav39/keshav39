@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keshav Garg</h1>
 <h3 align="center">A passionate Programmer and a Web Developer as well as a Gamer on the side.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshav39&label=View%20Count&color=00ff33&style=plastic" alt="keshav39" /> </p>
 
 - 🌱 I'm currently programming in **C++ and Java.**
 
@@ -22,6 +21,8 @@ Bye.
 
 
 [![@keshav39's Holopin board](https://holopin.me/keshav39)](https://holopin.io/@keshav39)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshav39&label=View%20Count&color=00ff33&style=plastic" alt="keshav39" /> </p>
 
 
 <!---
