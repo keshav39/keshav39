@@ -57,7 +57,7 @@
 <p align="right" font-size="30px">
   <img src="https://komarev.com/ghpvc/?username=keshav39&label=View%20Count&color=00ff33&style=plastic" alt="keshav39" /> 
 </p>
-![Visitor Count](https://profile-counter.glitch.me/{@keshav39}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{keshav39}/count.svg)
 
 
 <!---
