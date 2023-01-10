@@ -22,7 +22,7 @@ Bye.
 
 [![@keshav39's Holopin board](https://holopin.me/keshav39)](https://holopin.io/@keshav39)
 
-<p align="left" font-size="30px"> <img src="https://komarev.com/ghpvc/?username=keshav39&label=View%20Count&color=00ff33&style=plastic" alt="keshav39" /> </p>
+<p align="right" font-size="30px"> <img src="https://komarev.com/ghpvc/?username=keshav39&label=View%20Count&color=00ff33&style=plastic" alt="keshav39" /> </p>
 
 
 <!---
