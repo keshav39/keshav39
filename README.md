@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm </h1>**Keshav Garg**
+<h1 align="center">Hi 👋, I'm Keshav Garg</h1>
 <h3 align="center">A passionate Programmer and a Web Developer as well as a Gamer on the side.</h3>
 
 
 - 🌱 I'm currently programming in **C++ and Java.**
 
-- 👨‍💻 My most recent projects are available at [keshavgargwebd.000webhostapp.com](keshavgargwebd.000webhostapp.com)
+- 👨‍💻 My most recent project is available at [keshavgargwebd.000webhostapp.com](keshavgargwebd.000webhostapp.com)
 
 - 👀 Definitely an **Ambivert.**
 
