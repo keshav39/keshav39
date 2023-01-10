@@ -8,7 +8,7 @@
 
 - 👀 Definitely an **Ambivert.**
 
-<br/><br/>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left" padding="5px">
   <a href="https://linkedin.com/in/keshav-garg-269484189" target="_blank" margin="5px">
