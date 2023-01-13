@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently programming in **C++ and Java.**
 
-- 👨‍💻 My most recent project is available at <a href="https://keshavgargwebd.000webhostapp.com/Major-Project/">keshavgargwebd.000webhostapp.com</a>
+- 👨‍💻 My most recent project is available at <a target="_blank" href="https://keshavgargwebd.000webhostapp.com/Major-Project/">keshavgargwebd.000webhostapp.com</a>
 
 - 👀 Definitely an **Ambivert.**
 
