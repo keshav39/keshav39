@@ -8,7 +8,7 @@
   
 - 👨‍💻 My most recent project is available at <a target="_blank" href="https://keshav39.pythonanywhere.com">File Upload & Share</a>
 
-- 👨‍💻 My previous project is available at <a target="_blank" href="https://keshavgargwebd.000webhostapp.com/Major-Project/">SuperMart E-Commerce</a>
+- 👨‍💻 My previous project is available at <a target="_blank" href="https://keshavgargwebd.000webhostapp.com/Major-Project/">SuperMarket E-Commerce</a>
 
 - 👀 Definitely an **Ambivert.**
 
