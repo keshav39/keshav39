@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keshav Garg</h1>
 
-<h3 align="center">A passionate Programmer and a Web Developer as well as a Gamer on the side.</h3>
+<h3 align="center">A passionate programmer and web developer, as well as a gamer on the side.</h3>
 
 <br/>
 
