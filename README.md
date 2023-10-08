@@ -57,7 +57,7 @@
 <br/>
 <h2> Bye. </h2>
 
-[![@keshav39's Holopin board](https://holopin.me/keshav39)](https://holopin.io/@keshav39)
+[![An image of @keshav39's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keshav39)](https://holopin.io/@keshav39)
 
 
 <p align="right" font-size="30px">
