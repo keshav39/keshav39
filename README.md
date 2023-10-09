@@ -12,16 +12,10 @@
 
 - 👀 Definitely an **Ambivert.**
 
-<br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left" padding="5px">
-  <a href="https://linkedin.com/in/keshav-garg-269484189" target="_blank" margin="5px">
-    <img margin="5px"align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav-garg-269484189" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/keshav030902" target="_blank" margin="5px">
-    <img margin="5px"align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keshav030902" height="30" width="40" />
-  </a>
-</p>
+
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/keshav030902) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keshav-garg-269484189)
+
 
 <br/>
 <h3 align="left">Languages and Tools:</h3>
