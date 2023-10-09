@@ -53,10 +53,13 @@
 
 [![An image of @keshav39's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keshav39)](https://holopin.io/@keshav39)
 
-<p align="right" font-size="30px">
-  <img src="https://komarev.com/ghpvc/?username=keshav39&label=View%20Count&color=00ff33&style=plastic" alt="keshav39" /> 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshav39&label=Profile%20views&color=0d149e&style=flat" alt="keshav39" /> </p>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
+<p align="left"> 
+<a href="https://www.github.com/keshav39" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/keshav39?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a></p>
 <!---
 keshav39/keshav39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
