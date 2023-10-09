@@ -1,4 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshav39&label=Profile%20views&color=0d149e&style=flat" alt="keshav39" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=keshav39&label=Profile%20views&color=0d149e&style=flat" alt="keshav39" /></p>
+
 <br/>
 <h1 align="center">Hi 👋, I'm Keshav Garg</h1>
 
@@ -50,16 +51,14 @@
   </a> 
 </p>
 <br/>
-<div align = "center">
-**Github Metrics**
-![GitHub Metrics](https://metrics.lecoq.io/keshav39)
-</div>
+
+<p align="center"><img src="https://metrics.lecoq.io/keshav39" alt="keshav39" /></p>
+
 ### Show some ❤️ by starring some of the repositories!
 
 [![An image of @keshav39's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keshav39)](https://holopin.io/@keshav39)
 
-  
-<img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 <p align="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
