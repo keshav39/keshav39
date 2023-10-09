@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshav39&label=Profile%20views&color=0d149e&style=flat" alt="keshav39" /> </p>
-
+<br/>
 <h1 align="center">Hi 👋, I'm Keshav Garg</h1>
 
 <h3 align="center">A passionate programmer and web developer, as well as a gamer on the side.</h3>
@@ -50,6 +50,8 @@
   </a> 
 </p>
 <br/>
+**Github Metrics**
+![GitHub metrics](https://metrics.lecoq.io/keshav39)
 <h2> Bye. </h2>
 
 [![An image of @keshav39's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keshav39)](https://holopin.io/@keshav39)
