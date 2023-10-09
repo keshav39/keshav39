@@ -54,10 +54,9 @@
 
 <p align="center"><img src="https://metrics.lecoq.io/keshav39" alt="keshav39" /></p>
 
-### Show some ❤️ by starring some of the repositories!
+<h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
 
 [![An image of @keshav39's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keshav39)](https://holopin.io/@keshav39)
-
 
 <p align="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
