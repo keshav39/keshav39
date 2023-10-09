@@ -1,8 +1,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshav39&label=Profile%20views&color=0d149e&style=flat" alt="keshav39" /> </p>
-<a target="_blank" align="center">
-<p align="right" display="inline"> 
-<a href="https://www.github.com/keshav39" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/keshav39?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a></p>
 
 <h1 align="center">Hi 👋, I'm Keshav Garg</h1>
 
