@@ -57,6 +57,7 @@
 <br/>
 <h2> Bye. </h2>
 
+[![An image of @keshav39's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keshav39)](https://holopin.io/@keshav39)
 
 <p align="right" font-size="30px">
   <img src="https://komarev.com/ghpvc/?username=keshav39&label=View%20Count&color=00ff33&style=plastic" alt="keshav39" /> 
