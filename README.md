@@ -52,7 +52,7 @@
 </p>
 <br/>
 
-<p align="center"><img src="https://metrics.lecoq.io/keshav39" alt="keshav39" /></p>
+<p align="center">![Keshav39's's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshav39&hide=contribs,prs)</p>
 
 <h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
 
