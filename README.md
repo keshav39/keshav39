@@ -52,7 +52,7 @@
 </p>
 <br/>
 
-<p align="center">![Keshav39's's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshav39&hide=contribs,prs)</p>
+![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshav39&show_icons=true&theme=dracula&hide=stars)
 
 <h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
 
