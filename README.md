@@ -7,19 +7,18 @@
 
 <br/>
 
-* 🌱 I'm currently programming in **C++ and Java.**
-  
-* 👨‍💻 My most recent project is available at <a target="_blank" href="https://keshav39.pythonanywhere.com">File Upload & Share</a>
+- 🌱 I'm currently programming in **C++ and Java.**
+- 👨‍💻 My most recent project is available at <a target="_blank" href="https://keshav39.pythonanywhere.com">File Upload & Share</a>
 
-* 👨‍💻 My previous project is available at <a target="_blank" href="https://keshavgargwebd.000webhostapp.com/Major-Project/">SuperMarket E-Commerce</a>
+- 👨‍💻 My previous project is available at <a target="_blank" href="https://keshavgargwebd.000webhostapp.com/Major-Project/">Super Market E-Commerce</a>
 
-* 👀 Definitely an **Ambivert.**
-
+- 👀 Definitely an **Ambivert.**
 
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/keshav030902) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keshav-garg-269484189)
 <br/>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" padding="5px">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" margin="5px">
