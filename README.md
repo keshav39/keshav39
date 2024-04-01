@@ -53,7 +53,7 @@
 
 ![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshav39&show_icons=true&theme=dracula&hide=stars)
 
-<h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
+<h2 align="center">Show some ❤️ by starring my repositories!</h2>
 
 [![An image of @keshav39's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keshav39)](https://holopin.io/@keshav39)
 
